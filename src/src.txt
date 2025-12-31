@@ -1,0 +1,21 @@
+Task (Written Only): What do your users gain from the game being better? Name at least two things. Also, think about what users in your category might lose as a consequence of these improvements (although you need not write down any of these). (2-3 sentences)
+
+
+User category: Children
+
+Children gain more exciting and challenging gameplay, that helps improve their problem solving and strategic thinking skills. They will also feel a stronger sense of accomplishment and achievement as they improve their abilities and compete against stronger AI players. However, these same improvements could make the game so captivating that children might spend excessive time playing it (or become addicted to it) instead of distributing their time over other important activities. 
+
+
+
+Task (Written Only): As the game’s passionate developer, you have your own motivations and interest in improving the game. In a short paragraph, offer an analysis of where your interests overlap with the users’, and where they diverge. For example, you may both have an interest in the game being easy to navigate: you for the satisfaction of making a good product, and your users for having a more enjoyable experience. A point of divergence would be something that hurts one party but benefits the other.
+
+You can consider interests that you didn’t mention above, and make assumptions about what features you added to the game. Make all assumptions clear. If you believe that there is no overlap or no divergence between your interests and the users’, that is fine if you provide justification. Discuss at least two aspects and justify your answers. (5-7 sentences).
+
+Assuming we added features like leaderboards, score-tracking and in-game rewards, as a developer, my interests would overlap with users’ desire for motivation and recognition. Players would enjoy earning achievements and comparing scores with friends, and we would benefit from these systems keeping said users engaged and spreading the game to more people. Another overlap is in improving the game’s AI. Users would appreciate smarter opponents that make gameplay more competitive and exciting and I would take pride in advancing the technology behind it. A divergence arises in monetization however. As developers, we might introduce optional purchases or ads in order to support development, which could frustrate users who prefer an uninterrupted experience. Another divergence that might occur is that we might aim to optimize the game to maximize playtime, while players, especially children, could end up spending more time than intended. 
+
+
+Now, let’s switch gears to thinking about your experience with AI as a user. For this next question, choose an artificial intelligence system you have interacted with, such as ChatGPT, TikTok’s recommendation algorithm, Grammarly, or a website chatbot. If you don’t want to talk about your personal experience, feel free to imagine an arbitrary user experience and answer accordingly.
+
+Task (Written Only): To what extent do your interests align with the interests of the AI’s creator company or organization? If they don’t align very much, why do you still use their product? Respond with a short paragraph of analysis, where you discuss at least two aspects and justify your answers. Cite outside sources as needed (do not speculate about a company’s motivations without evidence or proper analysis). (4-6
+sentences)
+When we use an AI system like Instagram’s recommendation algorithm, our interests partially align with the company’s: we want to see content that I enjoy and Instagram wants to provide entertaining videos so that we keep using the app. However, our long term interest in using our time may not align with the company’s (which is related to advertising revenue). We continue to use the product as entertainment, and the recommendations are genuinely successful at producing relevant content, as well as due to the popularity of the platform with our friends, making it socially meaningful. Even though our interests diverge in terms of the amount of time spent on the platform, the short term benefit we get from it outweighs the downsides. Over time though, we aim to use the platform more consciously, to avoid being driven by the algorithms engagement incentives. 
