@@ -1,24 +1,2 @@
-# Basic Reason Template
-
-Hello! This project allows you to quickly get started with ReScript using Reason syntax. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
-
-# Build
-
-```bash
-# for yarn
-yarn build
-
-# for npm
-npm run build
-```
-
-# Build + Watch
-
-```bash
-# for yarn
-yarn start
-
-# for npm
-npm run start
-```
+Toads-N-Frogs is an implementation of Toads-N-Frogs, as specified [here](https://en.wikipedia.org/wiki/Toads_and_Frogs), with one subtle difference, each player has a "do-nothing" move. Also implemented is an AI-player, which uses the minimax algorithm with alpha-beta pruning to optimize move choice.
 
